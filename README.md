@@ -1,2 +1,2 @@
 # My-Projects
-My WebD Projects
+My Projects
